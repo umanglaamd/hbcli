@@ -3,7 +3,7 @@
 REM # added to https://github.com/umanglaamd/hbcli
 REM # handbrake benchmarking
 REM # usman.mangla@amd.com
-REM # 2020.01	Rev 0.9
+REM # 2020.01	Rev 0.91
 REM
 REM # install handbrake and handbrakeCLI  https://handbrake.fr/downloads.php 
 REM
