@@ -1,8 +1,6 @@
 # hbcli
 
-REM # handbrake benchmarking
-REM # usman.mangla@amd.com
-REM # 2020.01	Rev 0.9
-REM
-REM # install handbrake and handbrakeCLI  https://handbrake.fr/downloads.php 
-REM
+# handbrake benchmarking
+# usman.mangla@amd.com
+# install handbrake and handbrakeCLI  https://handbrake.fr/downloads.php 
+# BigBuckBunny4K60.mp4, bbb_sunflower_2160p_60fps_normal.mp4  https://download.blender.org/demo/movies/BBB/
