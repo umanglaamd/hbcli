@@ -3,7 +3,6 @@
 REM # added to https://github.com/umanglaamd/hbcli
 REM # handbrake benchmarking
 REM # usman.mangla@amd.com
-REM # 2020.01	Rev 0.91
 REM
 REM # install handbrake and handbrakeCLI  https://handbrake.fr/downloads.php 
 REM
@@ -12,7 +11,6 @@ set BINDIR=C:\Program Files\HandBrake\
 set BIN="%BINDIR%handbrakeCLI.exe"
 
 REM # Sample 4K video
-REM # dearborn_st_bridge_4k.mp4 https://www.dropbox.com/sh/6yy8szr1b97s7by/AABf-Sof08gPd41WhJvmCPY4a?dl=0
 REM # BigBuckBunny4K60.mp4, bbb_sunflower_2160p_60fps_normal.mp4  https://download.blender.org/demo/movies/BBB/
 REM # ensure batch file and video files are in the following directory:
 cd c:\video
